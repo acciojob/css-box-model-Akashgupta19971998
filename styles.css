@@ -1,2 +1,12 @@
 
-/* Your CSS Code here. */
+.container{
+    margin: 20px;
+    
+}
+.para{
+    width: 300px;
+    padding: 50px;
+    background-color: lightblue;
+    border: 15px solid blue;
+   
+}
