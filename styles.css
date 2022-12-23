@@ -1,9 +1,10 @@
 
-.container{
+/* .container{
     margin: 20px;
     
-}
-.para{
+} */
+.container{
+    margin: 20px;
     width: 300px;
     padding: 50px;
     background-color: lightblue;
